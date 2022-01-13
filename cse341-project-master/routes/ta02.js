@@ -7,7 +7,7 @@ const userArray =['Jack', 'Jill', 'Brian'];
 
 //requirement 02
 router.post('/addUser', (req, res, next) => {
-  const newUser = req.body.newUser:
+  const newUser = req.body.newUser;
 
   userArray.push(newUser);
 
