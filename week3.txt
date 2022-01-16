@@ -1,0 +1,30 @@
+After completing the assignment, be sure to push to Github and Heroku.
+Please answer the questions in this text file and submit it to I-Learn.
+
+1. Copy and paste the URL for your web application (e.g., Heroku):
+
+2. Copy and paste the URL for your source code repository (e.g., GitHub):
+https://github.com/lpomazal/CSE341/tree/master/academindCourse
+
+3. Briefly list and describe the elements of the application that are functioning. 
+I think it is all functioning, I had some issues with my localhost and getting git to sync properly.
+ However as it stands the code shows no errors that I can find
+
+4. Briefly describe any pieces of the assignment that are not yet working correctly.
+
+5. Briefly describe the "coolest" thing you learned while completing this assignment.
+I like how the MVC allows for better code recycling and I am getting more used to using the ejs. Although it still feels a bit 
+clunky to use because it is new. 
+6. If you could change this assignment to be more effective or helpful, what would you change?
+nothing this made more sense then previous weeks. 
+7. Please select the category you feel best describes your assignment: 4
+   1 - Some attempt was made
+   2 - Developing, but significantly deficient
+   3 - Slightly deficient, but still mostly adequate
+   4 - Meets requirements
+   5 - Shows creativity and excels above and beyond requirements
+
+8. Provide a brief justification (1-2 sentences) for selecting that category.
+
+Honestly I don't feel confident enough to be overly creative, plus in the current videos the most creative thing that we can really do
+is change the colors on the page and I don't find that overly interesting. 
