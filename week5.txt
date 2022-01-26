@@ -1,0 +1,35 @@
+After completing the assignment, be sure to push to Github and Heroku.
+Please answer the questions in this text file and submit it to I-Learn.
+
+1. Copy and paste the URL for your web application (e.g., Heroku):
+https://lpomazalcse341.herokuapp.com/
+
+2. Copy and paste the URL for your source code repository (e.g., GitHub):
+https://github.com/lpomazal/CSE341
+
+3. Briefly list and describe the elements of the application that are functioning. 
+It should all be working? I followed along with the videos and then copy his code at the end as to elimiate the issues of swollen hands
+I get when typing too much.
+
+4. Briefly describe any pieces of the assignment that are not yet working correctly.
+I just am not sure how to check on Heroku so I can't see it. I don't understand the app at all
+but it is all connected.
+
+5. Briefly describe the "coolest" thing you learned while completing this assignment.
+I am enjoying learning about cookies and sessions as they are something I have avoided
+since the begining of the internet when i was in highschool. But understanding how it works
+was very interesting.
+
+
+6. If you could change this assignment to be more effective or helpful, what would you change?
+Better explination of how to use all the programs together (which was probably a video I missed somewhere)
+
+7. Please select the category you feel best describes your assignment: 4
+   1 - Some attempt was made
+   2 - Developing, but significantly deficient
+   3 - Slightly deficient, but still mostly adequate
+   4 - Meets requirements
+   5 - Shows creativity and excels above and beyond requirements
+
+8. Provide a brief justification (1-2 sentences) for selecting that category.
+As is usual I am trying to undesrtand concepts more than I am applying creativity to my solutions. 
