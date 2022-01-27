@@ -1,12 +1,7 @@
 const mongodb = require('mongodb');
-const mysql = require('mysql2');
 const MongoClient = mongodb.MongoClient;
 
-const pool = mysql.createPool({
-  host: 'localhost',
-  user: 'root',
-  
-})
+
 let _db;
 
 const mongoConnect = callback => {
