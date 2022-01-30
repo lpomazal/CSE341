@@ -1,0 +1,39 @@
+After completing the assignment, be sure to push to Github and Heroku.
+Please answer the questions in this text file and submit it to I-Learn.
+
+1. Copy and paste the URL for your web application (e.g., Heroku):
+
+2. Copy and paste the URL for your source code repository (e.g., GitHub):
+
+https://github.com/lpomazal/CSE341
+
+3. Briefly list and describe the elements of the application that are functioning.
+I believe the full project is working, I am not fully sure how to test it but it looks like what we did for the team application, 
+except I wasn't fully sure what to put in the controller folder, so it probably isn't working completly now that I think about it.
+
+4. Briefly describe any pieces of the assignment that are not yet working correctly.
+
+my Controller folder is blank so probably that. 
+
+5. Briefly describe the "coolest" thing you learned while completing this assignment.
+
+I thought the API contract was interesting. I am not a huge fan of notation within my code (while I understand it's importance)
+the contract feels like a really elegant way communicate any essential information, without having parse through code and 
+take extra time. 
+
+6. If you could change this assignment to be more effective or helpful, what would you change?
+
+I do better with examples that are in video, I record all of our group zooms so that I can rewatch them, it helps quite a bit but having 
+an offical instruction i find super helpful. 
+
+7. Please select the category you feel best describes your assignment: 3.5-4
+   1 - Some attempt was made
+   2 - Developing, but significantly deficient
+   3 - Slightly deficient, but still mostly adequate
+   4 - Meets requirements
+   5 - Shows creativity and excels above and beyond requirements
+
+8. Provide a brief justification (1-2 sentences) for selecting that category.
+
+I belive I have everything within the code that I need. But as usual I am more focused on understanding concepts
+then I am with adding extra bits, hopefully I will understand it more someday so that I can make it more fancy.
